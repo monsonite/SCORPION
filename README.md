@@ -1,6 +1,6 @@
 # SCORPION
 
-A minimalist 8-bit "TTL" microcomputer based on a bit-serial ALU.
+A minimalist 32-bit "TTL" microcomputer based on a bit-serial ALU.
 
 SCORPION is the 4th of my arachnid themed, acronymically named, bit-serial microcomputer designs, following on from the TICK, MITE and SPIDER bit-serial testbed designs.
 
